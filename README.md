@@ -1,6 +1,9 @@
 # Crow Head
 The crow head series began as a torture test and a way to consolidate the knowledge gained. Additionally it is designed to test ideas and features that are included within other projects. The head's are allowed to be worked upon however they are not allowed to have more versions, rather once a design is finished, the majority of the design must remain and any other ideas must be tested upon the finished version or put forth to the next design.
 
+### Note:
+STL Files won't be provided due to github's file upload size restrictions. Although some files are small enough to fit, it won't be a good practice if only some files are available. There are many other programs and ways to convert step to stl so it should not be much of an issue. If it is a large issue to convert the file please make an issue with this repo or add to existing ones stating it and I will concider it, however it will be difficult to keep it up on 1 platform such at github.
+
 ## D1
 The first design for this is a very simple head designed to test whether or not I could build the head within a week from start to finish. Although This version did not have the best shape, it was good enough to serve its purpose.
 ![CrowHeadV1](.assets/Crow%20Head%20V1.png)
