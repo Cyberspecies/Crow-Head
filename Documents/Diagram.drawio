@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FQ1nKd3-7XS8y8ytSOO6" name="Brainstorm">
-    <mxGraphModel dx="398" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bUZLXmtgMYNzwVHecGjF" name="Hardware">
-    <mxGraphModel dx="683" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,11 +38,17 @@
         <mxCell id="Wk7JkS66D0Gk-N86fPe6-5" value="Moving Jaw" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="Wk7JkS66D0Gk-N86fPe6-1" vertex="1">
           <mxGeometry y="80" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="riNBaC0GnHUOrLskmWit-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TPU Substructure&lt;/h1&gt;&lt;p&gt;A TPU matrix provides a structure in which foam can be mounted whilst allowing air flow through the foam itself. The TPU also can be reinforced with harder plastics such as PLA, PETG or Polycarbonate to allow a more rigid structure.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="riNBaC0GnHUOrLskmWit-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;TPU Substructure&lt;/h1&gt;&lt;p&gt;A TPU matrix provides a structure in which foam can be mounted whilst allowing air flow through the foam itself. The TPU also can be reinforced with harder plastics such as PLA, PETG or Polycarbonate to allow a more rigid structure.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="riNBaC0GnHUOrLskmWit-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Material Stack&lt;/h1&gt;&lt;p&gt;The TPU substructure is first as it allows a base for other things to be mounted to it. Then, open cell foam is placed on the inside and outside of the TPU to allow ventillation whilst being worn. On the outer side, Fur Fabric can be attached to the TPU substructure beneath or to the foam.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="280" height="140" as="geometry" />
+        <mxCell id="riNBaC0GnHUOrLskmWit-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Material Stack&lt;/h1&gt;&lt;p&gt;The TPU substructure is first as it allows a base for other things to be mounted to it. Then, open cell foam is placed on the inside and outside of the TPU to allow ventillation whilst being worn. On the outer side, Fur Fabric can be attached to the TPU substructure beneath or to the foam.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="270" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ3rwM4Fad7bgqGvzSlf-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Moving Jaw&lt;/h1&gt;&lt;p&gt;Using a magnetically attached physically latched jaw hinge, it allows the user to move the jaw whilst being able to quick detach, for maintanance.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XDHBiOuMGhyVMTNIFYJ7-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Overall&lt;/h1&gt;&lt;p&gt;The head is hyper realistic whilst being much lighter than many other heads designed. Its overall purpose is to be worn during combat and urban environments for long times.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
