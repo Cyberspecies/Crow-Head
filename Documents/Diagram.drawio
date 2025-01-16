@@ -281,10 +281,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bUZLXmtgMYNzwVHecGjF" name="Hardware">
-    <mxGraphModel dx="989" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="440" y="660" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-5" value="EVA Foam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="660" width="160" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Wk7JkS66D0Gk-N86fPe6-1" value="Features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="140" height="100" as="geometry" />
         </mxCell>
@@ -306,11 +312,122 @@
         <mxCell id="riNBaC0GnHUOrLskmWit-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Material Stack&lt;/h1&gt;&lt;p&gt;The TPU substructure is first as it allows a base for other things to be mounted to it. Then, open cell foam is placed on the inside and outside of the TPU to allow ventillation whilst being worn. On the outer side, Fur Fabric can be attached to the TPU substructure beneath or to the foam.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="270" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oZ3rwM4Fad7bgqGvzSlf-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Moving Jaw&lt;/h1&gt;&lt;p&gt;Using a magnetically attached physically latched jaw hinge, it allows the user to move the jaw whilst being able to quick detach, for maintanance.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oZ3rwM4Fad7bgqGvzSlf-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Moving Jaw&lt;/h1&gt;&lt;p&gt;Using a magnetically attached physically latched jaw hinge, it allows the user to move the jaw whilst being able to quick detach, for maintanance.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="430" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XDHBiOuMGhyVMTNIFYJ7-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Overall&lt;/h1&gt;&lt;p&gt;The head is hyper realistic whilst being much lighter than many other heads designed. Its overall purpose is to be worn during combat and urban environments for long times.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XDHBiOuMGhyVMTNIFYJ7-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Overall&lt;/h1&gt;&lt;p&gt;The head is hyper realistic whilst being much lighter than many other heads designed. Its overall purpose is to be worn during combat and urban environments for long times.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-1" value="TPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="200" y="680" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="380" y="680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="580" y="680" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-7" value="Substructure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNR_2ZbzsW6OyG9vz1cw-8" value="Fur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="200" y="640" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-1" value="TPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="800" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-2" value="PC Vacuum Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="820" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-18" value="PLA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-19" value="Magnet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="520" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="950" y="530" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-25" value="Magnet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="550" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="930" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-31" value="" style="shape=card;whiteSpace=wrap;html=1;direction=north;size=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="850" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-32" value="" style="shape=card;whiteSpace=wrap;html=1;direction=west;size=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="970" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="510" as="sourcePoint" />
+            <mxPoint x="750" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="580" />
+              <mxPoint x="1080" y="580" />
+              <mxPoint x="1080" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-36" value="Jaw Hinge Mechanism" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="490" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ogzoQkF-cu8O9C9ILkDr-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="630" as="sourcePoint" />
+            <mxPoint x="190" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="730" />
+              <mxPoint x="670" y="730" />
+              <mxPoint x="670" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="790" as="sourcePoint" />
+            <mxPoint x="190" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="870" />
+              <mxPoint x="450" y="870" />
+              <mxPoint x="450" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-5" value="Visor Bezel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="260" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-9" value="Mag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="370" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9UuvWZU_HztejsaZeM7O-12" value="Mag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="810" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
